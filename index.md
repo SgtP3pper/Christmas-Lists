@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Kids Christmas Lists
 
-You can use the [editor on GitHub](https://github.com/SgtP3pper/Christmas-Lists/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### R
+- We've got her a scooter (a pink Micro Scooter) and she'd probably like some of the accesories that go with it.  Stuff like a Bell or tassle/ribbon things (like this http://amzn.eu/6bjGW8E).  
+- Books by Julia Donaldson. There's so many its easier to list ones she already has; Gruffalo, Gruffalo's child, room on a broom, tiddler, singing mermaid, squash & a squeeze, scarecrows wedding, highway rat, ladybird heard, monkey puzle, stickman, foxes socks, postman bear, hide&seek pig.  
+- Other books 
+- Julia Donaldson Stories on CD (For Car journeys etc). http://amzn.eu/bRVO2OE (It's gone up alot in price here, but maybe cheaper elsewhere) or something else similar!  
+- Dressing Gown  
+- Alice Band  
+- Pencil case  
+- Other than that, she currently likes Disney Princesses, Disney's Sofia the first, Paw patrol, and peppa pig.  
+- Ideally not stuffed toys i.e. teddy's (we havent got room for anymore :) )  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SgtP3pper/Christmas-Lists/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### H
+- Needs clothes!!, Size 12m+  :)  
+- Books  
+- He's mostly ok for toys because he plays with Ruby stuff at the moment. (we've got him a couple for christmas).  
